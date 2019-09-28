@@ -1,0 +1,30 @@
+body{
+    background: #F5F4EF;
+    background: #;
+    font-family: 'Trebuchet MS', Trebuchet, "Lucida Sans Unicode";
+    color #000305;
+    font-size: 14px;
+}
+a{
+    color: #c74350;
+    transition: color 0.4s linear; background-color: .4s linear;
+    padding: 0 4px;
+}
+a:hover,
+a:focus,
+a:active{
+    color: #fff;
+    background-color: #c74350;
+    text-decoration: none;
+}
+.container{
+    max-width: 900px;
+    width: 96%;
+    margin: 0 auto;
+}
+section{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0;
+}
