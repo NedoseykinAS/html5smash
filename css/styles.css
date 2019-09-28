@@ -1,8 +1,7 @@
 body{
-    background: #F5F4EF;
-    background: #;
+    background: black;
     font-family: 'Trebuchet MS', Trebuchet, "Lucida Sans Unicode";
-    color #000305;
+    color: red; 
     font-size: 14px;
 }
 a{
